@@ -1,0 +1,25 @@
+{
+  "name": "bread-ipsum",
+  "version": "1.0.0",
+  "authors": [
+    "Travis Castillo <tcastillo@crowdcompass.com>"
+  ],
+  "description": "bread ipsum generator",
+  "keywords": [
+    "ipsum"
+  ],
+  "license": "none",
+  "homepage": "ipsum.breadlust.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4",
+    "core-scaffold": "Polymer/core-scaffold#~0.5.4"
+  }
+}
